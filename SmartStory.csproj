@@ -21,4 +21,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <Folder Include="PostgreSQL\" />
+  </ItemGroup>
+
 </Project>
