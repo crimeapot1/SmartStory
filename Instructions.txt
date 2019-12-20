@@ -1,4 +1,5 @@
 ﻿Публикация на github из VisualStudio
+https://habr.com/ru/sandbox/112936/ 
 https://www.azuredevopslabs.com/labs/devopsserver/github/
 
 Создать CRUD-приложение
