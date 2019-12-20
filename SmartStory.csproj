@@ -5,6 +5,13 @@
     <UserSecretsId>aspnet-SmartStory-048A38D6-CB85-4786-9EEE-6B384E9AA11B</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="MSSQLLocalDB\**" />
+    <Content Remove="MSSQLLocalDB\**" />
+    <EmbeddedResource Remove="MSSQLLocalDB\**" />
+    <None Remove="MSSQLLocalDB\**" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.0" />
