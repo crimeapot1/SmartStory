@@ -7,3 +7,5 @@ https://www.syncfusion.com/blogs/post/build-crud-application-with-asp-net-core-e
 
 Создать чат
 https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/signalr?view=aspnetcore-3.1&tabs=visual-studio
+
+Hi Alex!
