@@ -1,0 +1,8 @@
+﻿Публикация на github из VisualStudio
+https://www.azuredevopslabs.com/labs/devopsserver/github/
+
+Создать CRUD-приложение
+https://www.syncfusion.com/blogs/post/build-crud-application-with-asp-net-core-entity-framework-visual-studio-2019.aspx
+
+Создать чат
+https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/signalr?view=aspnetcore-3.1&tabs=visual-studio
